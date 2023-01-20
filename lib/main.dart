@@ -140,7 +140,7 @@ class _MyteamState extends State<Myteam> {
           Container(
             color: Colors.white,
             height: 360,
-            width: 600,
+            width: 601,
             child: con,
           )
         ],
